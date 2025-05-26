@@ -1,2 +1,2 @@
 # Logica-de-Programacao
-Atividades Lógica de Programação.
+Este repositório armazenará exercícios de Lógica de Programação do SENAC LAPA TITO, TDS02.
